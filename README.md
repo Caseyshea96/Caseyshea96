@@ -2,7 +2,6 @@
 
 **Location:** Knoxville, US, 37932  
 **Email:** cshea9@vols.utk.edu  
-**Phone:** 336-302-2719
 
 ## Professional Summary
 
