@@ -2,6 +2,7 @@
 
 **Location:** Knoxville, US, 37932  
 **Email:** cshea9@vols.utk.edu  
+**LinkedIn:** https://www.linkedin.com/in/caseyshea1/
 
 ## Professional Summary
 
