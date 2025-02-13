@@ -2,13 +2,13 @@
 
 **Location:** Knoxville, US, 37932  
 **Email:** cshea9@vols.utk.edu  
-**LinkedIn:** https://www.linkedin.com/in/caseyshea1/
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/caseyshea1/)
 
 ## Professional Summary
 
 I am a GIS Analyst with extensive experience in data visualization and spatial analysis, employing Python, R, ArcGIS, and QGIS to craft innovative solutions that enhance decision-making. I demonstrate a strong ability to streamline processes and boost productivity through the development of advanced web maps and Spotfire dashboards. I am committed to pioneering data-driven strategies that drive efficiency and strategic insights.
 
-### GIS Projects
+## GIS Projects
 
 - Created web maps to enable companies to easily analyze well data throughout Appalachian regions
 - Developed dashboards linked to company database for efficient data access using Spotfire
@@ -23,6 +23,14 @@ I am a GIS Analyst with extensive experience in data visualization and spatial a
 
 ## Employment History
 
+### Independent GIS Analyst/Developer
+**2022 - Present**
+
+- Design web maps for Appalachian well data analysis, enhancing decision-making capabilities
+- Develop Spotfire dashboards for seamless data access, improving efficiency
+- Create maps for oil and gas basin insights, aiding geologic consulting
+- Analyze EPA data for carbon sequestration trends, informing strategic planning
+- Automate billing with Airtable, cutting processing time significantly
 
 ### Banquet Supervisor
 **2019 - Present**  
@@ -42,30 +50,18 @@ I am a GIS Analyst with extensive experience in data visualization and spatial a
 
 ## Skills
 
-- Reporting
-- Data Visualization
-- Spatial Databases
-- Data Analysis
-- Data Collection
-- Remote Sensing
-- Cartography
-- ArcGIS
-- QGIS
-- Spotfire
-- Tableau
-- Airtable
-- R
-- Python
-- SQL
-- Team Leadership
-- Project Management
-- Statistical Analysis
-- Problem Solving
-- Process Improvement
+- Data Visualization, Data Analysis, Reporting
+- Spatial Databases, Remote Sensing, Cartography
+- ArcGIS, QGIS, Spotfire, Tableau, Airtable
+- Python, R, SQL
+- Team Leadership, Project Management, Statistical Analysis, Process Improvement
 
 ## Languages
 
 - English (Native)
 - Spanish (Novice)
 
+## Hobbies
 
+- Playing guitar
+- Kayaking
