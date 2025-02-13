@@ -24,14 +24,6 @@ I am a GIS Analyst with extensive experience in data visualization and spatial a
 
 ## Employment History
 
-### Independent GIS Analyst/Developer
-**2022 - Present**
-
-- Design web maps for Appalachian well data analysis, enhancing decision-making capabilities
-- Develop Spotfire dashboards for seamless data access, improving efficiency
-- Create maps for oil and gas basin insights, aiding geologic consulting
-- Analyze EPA data for carbon sequestration trends, informing strategic planning
-- Automate billing with Airtable, cutting processing time significantly
 
 ### Banquet Supervisor
 **2019 - Present**  
